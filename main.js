@@ -1,1 +1,1 @@
-console.log('Hello Git !')
+alert('Bonjour Git !')
