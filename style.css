@@ -4,5 +4,17 @@ h1 {
 
 p {
   color: purple;
-}b { color: green}
-c { color: green}
+}
+
+b {
+  color: green
+}
+
+c {
+  color: green
+}
+
+li {
+  color: tomato;
+  background-color: grey;
+}
